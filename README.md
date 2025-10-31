@@ -93,7 +93,8 @@ I see code as creativity in motion — and teaching it is my way of multiplying 
 
 > “The best code doesn’t just work — it teaches.”
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&random=${Math.random()})
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&time=${Date.now()})
+
 
 ---
 
