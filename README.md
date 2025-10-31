@@ -1,12 +1,19 @@
-# 👋 Hey, I’m **Shivam Shrivastav**
+<!-- Keywords: MERN Stack Developer, Software Engineer, AI Integration, Full Stack Trainer, JavaScript, React, Node.js, OpenAI -->
+
+# 👋 Hello, World! I’m **Shivam Shrivastav**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+(MERN)+Developer;AI+%2B+Web+Innovator;Tech+Mentor+%2F+Trainer)](https://git.io/typing-svg)
 
 💻 A **Software Engineer**, **Full Stack (MERN) Developer**, and **Tech Mentor/Trainer** — crafting code that connects ideas to impact.  
 I love turning abstract concepts into real-world projects and helping others understand the *“why”* behind every line of code.  
 Currently exploring how **AI + Web Development** can create smarter, more intuitive digital experiences.  
 
+💡 **Mission:**  
+To make complex technologies simple, engaging, and impactful — for both users and learners.  
+
 ---
 
-# 💫 About Me:
+# 💫 About Me
 
 🛠 **I’m currently working on:**  
 Building scalable full-stack web applications using React, Node.js, Express.js, and MongoDB — focusing on clean architecture, performance, and user-centric design.  
@@ -24,8 +31,7 @@ Next.js 13+, AI integration with JavaScript & Python, LangChain, OpenAI API, pro
 Full-Stack Development, REST & GraphQL APIs, Firebase + Redux Toolkit, Node.js backend design, and mentoring developers in understanding the *why* behind every concept.  
 
 ⚡ **Fun Insight:**  
-I believe **code is not just logic — it’s language.**  
-I enjoy helping learners translate that language into creativity and confidence from day one.  
+I see code as creativity in motion — and teaching it is my way of multiplying impact.
 
 ---
 
@@ -87,7 +93,7 @@ I enjoy helping learners translate that language into creativity and confidence 
 
 > “The best code doesn’t just work — it teaches.”
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&random=${Math.random()})
 
 ---
 
