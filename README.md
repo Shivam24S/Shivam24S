@@ -1,6 +1,6 @@
 <!-- Keywords: MERN Stack Developer, Software Engineer, AI Integration, Full Stack Trainer, JavaScript, React, Node.js, OpenAI -->
 
-# 👋 Hello, World! I’m **Shivam Shrivastav**
+# 👋 Hey, I’m **Shivam Shrivastav**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+(MERN)+Developer;AI+%2B+Web+Innovator;Tech+Mentor+%2F+Trainer)](https://git.io/typing-svg)
 
